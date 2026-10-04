@@ -6,7 +6,7 @@
 
 ## Stažení (Android)
 
-**[⬇ Stáhnout nejnovější Learnitgo.apk](https://github.com/ItzStepix/zavegose-app/releases/latest/download/Learnitgo.apk)**
+**[⬇ Stáhnout nejnovější Learnitgo.apk](https://github.com/ItzStepix/learnitgo-app/releases/latest/download/Learnitgo.apk)**
 
 1. Otevři odkaz výše v telefonu a stáhni `Learnitgo.apk`.
 2. Otevři stažený soubor a klepni na **Instalovat**.
