@@ -14,12 +14,11 @@
 
 ## Co umí
 
-- 4 výchozí předměty s 80 otázkami pro starší žáky a odkaz na Duolingo pro angličtinu
 - vlastní předměty (až 5) a otázky – jednotlivě, nebo víc najednou ve tvaru `otázka - odpověď`
 - lekce s různými typy úloh: výběr z možností, psaní odpovědi, pravda/nepravda, spojování dvojic
 - špatné odpovědi se vracejí, dokud je neumíš
 - vyfocení testu kamerou přímo v aplikaci a přepis textu na otázky
-- kalendář testů, opravování chyb, čeština i angličtina
+- kalendář testů (jeden test na den, ve všední dny), opravování chyb, čeština i angličtina
 - vše se ukládá jen v telefonu, žádný účet ani internet
 
 Zdrojový kód není veřejný.
